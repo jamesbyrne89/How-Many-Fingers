@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jamesbyrne89/How-Many-Fingers#readme",
   "devDependencies": {
-    "normalize.css": "^5.0.0"
+    "normalize.css": "^8.0.1"
   }
 }
